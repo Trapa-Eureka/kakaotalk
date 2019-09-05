@@ -1,1 +1,13 @@
 @import "reset.css";
+@import "status-bar.css";
+
+/* default style */
+
+body {
+    background-color: #fff;
+    padding: 10px 18px;
+    color: #020202;
+}
+
+
+/* default style */
